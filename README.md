@@ -27,6 +27,7 @@ GaitCoach is an educational tool only. It does not provide medical advice, diagn
 Your Control
 You can revoke GaitCoach’s access to Apple Health data at any time via:
 Apple Health → Sharing → Apps → GaitCoach
+
 Contact
 If you have questions about this Privacy Policy, you may contact: gaitcoach@gmail.com
 
