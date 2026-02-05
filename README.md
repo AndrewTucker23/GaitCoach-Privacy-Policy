@@ -29,6 +29,7 @@ You can revoke GaitCoach’s access to Apple Health data at any time via:
 Apple Health → Sharing → Apps → GaitCoach
 
 Contact
+
 If you have questions about this Privacy Policy, you may contact: gaitcoach@gmail.com
 
 <img width="432" height="652" alt="image" src="https://github.com/user-attachments/assets/6a921a57-8330-40ce-80ba-4ddfaf42cdfa" />
